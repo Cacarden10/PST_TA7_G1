@@ -36,6 +36,7 @@
         android:layout_marginTop="5mm"
         android:layout_marginBottom="5mm"
         android:lineSpacingExtra="10sp"
+        android:onClick="fuerte"
         android:paddingLeft="15sp"
         android:paddingTop="15sp"
         android:paddingRight="15sp"
@@ -83,12 +84,12 @@
         android:layout_width="30mm"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal|center_vertical"
-        android:layout_marginTop="5mm"
+
         android:layout_marginBottom="5mm"
         android:paddingLeft="15sp"
         android:paddingTop="30sp"
         android:paddingRight="15sp"
-        android:paddingBottom="15sp"
+
         android:text="Buscar"
         android:textAlignment="center"
         android:textSize="18sp"
