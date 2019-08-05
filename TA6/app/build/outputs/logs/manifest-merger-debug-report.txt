@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\711827d5be2490a24d5294af5a36b20c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\2ba7c19ce1b4d2f69e90255593568509\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\50ce9fabffe06b08363415a4d8617b30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\8cce26db44a4fe26e0c79d983df5d5ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\a84fa135335ed13a5ddd31d40ca81640\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\06b20cb543bae29b3800cc19d32879e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\ee72a841056ae599b9bd8e5d43c861cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e6397d29269341fe89f15935d258f22f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\09f9c014aa6eb26c79b984c5107ed683\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\88db00d9872610847c22bac430227eeb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\adbba29b4c56dab3b25fdc0d316795c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\4adada07e701f3c7b84a9bd019726cb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\a08dc066b14cd19cb62ddccac13613fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\722b0fe4a3500b0f913ceccf18ce5ba3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f8fbc0355cb859c98201e08b1826bba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f402d8d2fd72d907102b29a990b4da7e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\d2197da3145549bc76073878bf5a7e54\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\b81f109105e383d600ef14b33ac0f475\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e93e9add4516cb28530bca876c695fd7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\3020783ecc1efcaac2a5d013a9e2bd17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\4f4ec878f257771dc3eb32e833cae763\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\1a6452dea30f85f80ea302d5b3484865\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e25fd44de0b635d847178b1b6b87f6be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\3f3977c1506fb27051c11253f6abdcf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\260079ada321797521c79394a0d2192e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\b26c15fafec5d4d12f428cb4c36f054e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\fb2bf01cb235df3e3913f8d57ed2fe1e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\2ba7c19ce1b4d2f69e90255593568509\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\2ba7c19ce1b4d2f69e90255593568509\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f402d8d2fd72d907102b29a990b4da7e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f402d8d2fd72d907102b29a990b4da7e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\d2197da3145549bc76073878bf5a7e54\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\d2197da3145549bc76073878bf5a7e54\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f402d8d2fd72d907102b29a990b4da7e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ta6.PFuertes
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:12:19-43
+activity#com.example.ta6.MainActivity
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\711827d5be2490a24d5294af5a36b20c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\711827d5be2490a24d5294af5a36b20c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\2ba7c19ce1b4d2f69e90255593568509\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\2ba7c19ce1b4d2f69e90255593568509\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\50ce9fabffe06b08363415a4d8617b30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\50ce9fabffe06b08363415a4d8617b30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\8cce26db44a4fe26e0c79d983df5d5ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\8cce26db44a4fe26e0c79d983df5d5ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\a84fa135335ed13a5ddd31d40ca81640\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\a84fa135335ed13a5ddd31d40ca81640\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\06b20cb543bae29b3800cc19d32879e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\06b20cb543bae29b3800cc19d32879e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\ee72a841056ae599b9bd8e5d43c861cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\ee72a841056ae599b9bd8e5d43c861cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e6397d29269341fe89f15935d258f22f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e6397d29269341fe89f15935d258f22f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\09f9c014aa6eb26c79b984c5107ed683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\09f9c014aa6eb26c79b984c5107ed683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\88db00d9872610847c22bac430227eeb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\88db00d9872610847c22bac430227eeb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\adbba29b4c56dab3b25fdc0d316795c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\adbba29b4c56dab3b25fdc0d316795c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\4adada07e701f3c7b84a9bd019726cb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\4adada07e701f3c7b84a9bd019726cb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\a08dc066b14cd19cb62ddccac13613fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\a08dc066b14cd19cb62ddccac13613fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\722b0fe4a3500b0f913ceccf18ce5ba3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\722b0fe4a3500b0f913ceccf18ce5ba3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f8fbc0355cb859c98201e08b1826bba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f8fbc0355cb859c98201e08b1826bba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f402d8d2fd72d907102b29a990b4da7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\f402d8d2fd72d907102b29a990b4da7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\d2197da3145549bc76073878bf5a7e54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\d2197da3145549bc76073878bf5a7e54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\b81f109105e383d600ef14b33ac0f475\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\b81f109105e383d600ef14b33ac0f475\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e93e9add4516cb28530bca876c695fd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e93e9add4516cb28530bca876c695fd7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\3020783ecc1efcaac2a5d013a9e2bd17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\3020783ecc1efcaac2a5d013a9e2bd17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\4f4ec878f257771dc3eb32e833cae763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\4f4ec878f257771dc3eb32e833cae763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\1a6452dea30f85f80ea302d5b3484865\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\1a6452dea30f85f80ea302d5b3484865\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e25fd44de0b635d847178b1b6b87f6be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\e25fd44de0b635d847178b1b6b87f6be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\3f3977c1506fb27051c11253f6abdcf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\3f3977c1506fb27051c11253f6abdcf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\260079ada321797521c79394a0d2192e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\260079ada321797521c79394a0d2192e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\b26c15fafec5d4d12f428cb4c36f054e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\b26c15fafec5d4d12f428cb4c36f054e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\fb2bf01cb235df3e3913f8d57ed2fe1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\himesama\.gradle\caches\transforms-2\files-2.1\fb2bf01cb235df3e3913f8d57ed2fe1e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\himesama\Documents\GitHub\PST_TA7_G1\TA6\app\src\main\AndroidManifest.xml
