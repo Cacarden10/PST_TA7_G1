@@ -10,7 +10,7 @@ public class AdminSQLiteOpenHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        db.execSQL("create table productos(codigo int primary key,descripcion text,precio real)");
+        db.execSQL("create table productos(codigo int primary key,descripcion text,precio real, tipo text)");
     }
 
     @Override

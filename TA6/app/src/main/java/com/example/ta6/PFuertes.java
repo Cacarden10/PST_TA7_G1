@@ -34,8 +34,6 @@ public class PFuertes extends AppCompatActivity {
         ArrayAdapter <String> opciones= new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, productos);
         spin.setAdapter(opciones);
 
-
-
     }
 
     public void consultar(){

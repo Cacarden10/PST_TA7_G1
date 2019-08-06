@@ -18,7 +18,10 @@ public class MainActivity extends AppCompatActivity {
     public void fuerte(View view){
         Intent i= new Intent(this, PFuertes.class);
         startActivity(i);
-
     }
 
+    public void bebida(View view){
+        Intent i= new Intent(this, Bebidas.class);
+        startActivity(i);
+    }
 }
