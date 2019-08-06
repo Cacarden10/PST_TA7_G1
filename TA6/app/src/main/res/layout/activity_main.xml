@@ -33,8 +33,8 @@
         android:layout_width="30mm"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal|center_vertical"
-        android:layout_marginTop="5mm"
-        android:layout_marginBottom="5mm"
+        android:layout_marginTop="2mm"
+        android:layout_marginBottom="2mm"
         android:lineSpacingExtra="10sp"
         android:onClick="fuerte"
         android:paddingLeft="15sp"
@@ -51,8 +51,8 @@
         android:layout_width="30mm"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal|center_vertical"
-        android:layout_marginTop="5mm"
-        android:layout_marginBottom="5mm"
+        android:layout_marginTop="2mm"
+        android:layout_marginBottom="2mm"
         android:onClick="bebida"
         android:paddingLeft="15sp"
         android:paddingTop="30sp"
@@ -69,13 +69,26 @@
         android:layout_width="30mm"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal|center_vertical"
-        android:layout_marginTop="5mm"
-        android:layout_marginBottom="5mm"
+        android:layout_marginTop="2mm"
+        android:layout_marginBottom="2mm"
         android:paddingLeft="15sp"
         android:paddingTop="30sp"
         android:paddingRight="15sp"
         android:paddingBottom="15sp"
         android:text="Postres"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/cupones"
+        android:layout_width="30mm"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="2mm"
+        android:layout_marginBottom="2mm"
+        android:gravity="center_horizontal"
+        android:text="CUPONES"
         android:textAlignment="center"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -94,7 +107,8 @@
         android:text="Buscar"
         android:textAlignment="center"
         android:textSize="18sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        />
 
     <EditText
         android:id="@+id/editText"
