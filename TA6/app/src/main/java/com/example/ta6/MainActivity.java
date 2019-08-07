@@ -24,4 +24,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(this, Bebidas.class);
         startActivity(i);
     }
+
+    public void cupones(View view){
+        Intent i= new Intent(this, Cupones_Activity.class);
+                startActivity(i);
+    }
 }

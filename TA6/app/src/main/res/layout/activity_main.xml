@@ -88,6 +88,7 @@
         android:layout_marginTop="2mm"
         android:layout_marginBottom="2mm"
         android:gravity="center_horizontal"
+        android:onClick="cupones"
         android:text="CUPONES"
         android:textAlignment="center"
         android:textSize="18sp"
