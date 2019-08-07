@@ -13,6 +13,7 @@ import java.util.Objects;
 
 public class PFuertes extends AppCompatActivity {
 
+
     private Spinner spin;
     private TextView precio,descripcion;
     private ImageView img;
@@ -29,6 +30,10 @@ public class PFuertes extends AppCompatActivity {
         descripcion =(TextView)findViewById(R.id.text_des);
         img =(ImageView)findViewById(R.id.image_des);
 
+
+        //Construccion del arrayAdapter
+        //Carlos Cardenas
+
         String[] productos = {"Pizza","Hot Dog","Lazaña","Hamburguesa"};
 
         ArrayAdapter <String> opciones= new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, productos);
@@ -36,11 +41,16 @@ public class PFuertes extends AppCompatActivity {
 
     }
 
+    //Este metodo consulta la informacion según el item seleccionado
+    //Carlos Cardenas
     public void consultar(){
        String dato =spin.getSelectedItem().toString();
        verificacion(dato);
     }
 
+
+    //Este metodo recibe un String, clasifica la información según el item tanto en el EdiText como en el Image View
+    //Carlos Cardenas
     public void verificacion(String str){
         if (str.equalsIgnoreCase("pizza")){
             precio.setText("12");
@@ -66,6 +76,8 @@ public class PFuertes extends AppCompatActivity {
     }
 
     //@Override
+
+    //Acción del botón consultar informacion llama al método consultar
     public void onClick(View view) {
         //Invocamos al método:
         consultar();

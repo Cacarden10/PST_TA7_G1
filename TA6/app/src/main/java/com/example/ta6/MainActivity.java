@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //Accion del boton Platos fuertes
+    //Carlos
     public void fuerte(View view){
         Intent i= new Intent(this, PFuertes.class);
         startActivity(i);
