@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import static com.example.ta6.R.layout.activity_postres;
+
 public class Postres extends AppCompatActivity {
 
     private Spinner spin;
@@ -17,7 +19,7 @@ public class Postres extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bebidas);
+        setContentView(activity_postres);
 
         spin = (Spinner) findViewById(R.id.spinner1);
         precio =(TextView)findViewById(R.id.text_pre);
